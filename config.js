@@ -7,12 +7,12 @@ global.botnumber = ""
 global.confirmCode = ""
 
 global.owner = [
-  ['393515533859', '𝐂𝐡𝐚𝐭𝐔𝐧𝐢𝐭𝐲', true], // VIETATO ELIMINARE IL CREATORE (se lo fai te ne pentirai)
-  ['421233456345', 'Kinderino', true],
-  ['66621409462', 'matte', true], // al posto del X metti il tuo numero di telefono
-  ['393509368693', 'Gab', true],	
-  ['xxxxxxxxxx',],
-  ['xxxxxxxxxx'],
+  ['xxxxxxxxxxx', '𝐂𝐡𝐚𝐭𝐔𝐧𝐢𝐭𝐲', true], // VIETATO ELIMINARE IL CREATORE (se lo fai te ne pentirai)
+  ['xxxxxxxxxxx', 'Kinderino', true],
+  ['xxxxxxxxxxx', 'matte', true], // al posto del X metti il tuo numero di telefono
+  ['xxxxxxxxxxx', 'Gab', true],	
+  ['393886247181',],
+  ['212762646932'],
   ['xxxxxxxxxx'],
 ]
 
